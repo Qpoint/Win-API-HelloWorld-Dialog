@@ -36,5 +36,5 @@ if response == 3:
 elif response == 4:
 	print("User Retry!")
 elif response == 5:
-    print("Clicked Ignore")
+    print("Clicked Ignore!")
 
